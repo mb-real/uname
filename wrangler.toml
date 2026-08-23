@@ -1,5 +1,4 @@
 name = "uname"
-main = "worker.js"
+main = "dist/worker.js"
 compatibility_date = "2026-08-23"
 
-# بخش [site] رو کاملاً حذف کنید یا کامنت کنید
